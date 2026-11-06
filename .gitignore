@@ -1,12 +1,10 @@
-# Ignore the contents of the _site directory
-_site/
-
-# Ignore the directory for local files during development
-local/
-
-# Ignore the Gemfile that is generated
-Gemfile.lock
-
-# Ingore files created by npm
-node_modules
+# 本站不需要安装依赖或构建。以下仅用于可选的本地工具。
+node_modules/
 package-lock.json
+_site/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+test-results/
+playwright-report/

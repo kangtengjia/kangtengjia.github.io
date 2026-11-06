@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#fafbfd">
+  <title>Page not found | Tengjia Kang</title>
+  <!-- GitHub serves this document at the requested path, including nested URLs. -->
+  <base href="/">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <script>
+    try {
+      if (localStorage.getItem('tk-theme') === 'dark') document.documentElement.dataset.theme = 'dark';
+      if (localStorage.getItem('tk-language') === 'zh') document.documentElement.lang = 'zh-CN';
+    } catch (_) {}
+  </script>
+  <link rel="stylesheet" href="style.css">
+  <script src="data.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header"><div class="header-inner container"><a class="brand" href="./"><span class="brand-mark" aria-hidden="true">TK.</span><span data-profile="name">Tengjia Kang</span></a></div></header>
+  <main class="error-page container"><div><p class="eyebrow">404</p><h1 data-i18n="notFoundTitle">Page not found</h1><p data-i18n="notFoundText">This page may have moved. You can return to the academic homepage below.</p><a class="text-link" href="./" data-i18n="returnHome">Return to homepage</a></div></main>
+</body>
+</html>

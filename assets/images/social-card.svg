@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fafbfd"/>
+  <path d="M90 100h1020M90 530h1020" stroke="#dbe2eb"/>
+  <rect x="90" y="180" width="220" height="250" rx="6" fill="#edf2f7"/>
+  <text x="200" y="335" text-anchor="middle" font-family="Georgia,serif" font-size="85" fill="#17365b">TK</text>
+  <text x="370" y="200" font-family="sans-serif" font-size="16" letter-spacing="4" fill="#56677d">ACADEMIC HOMEPAGE</text>
+  <text x="370" y="285" font-family="Georgia,serif" font-size="67" fill="#17365b">Tengjia Kang</text>
+  <text x="373" y="344" font-family="sans-serif" font-size="25" fill="#344256">Ph.D. Student</text>
+  <text x="373" y="385" font-family="sans-serif" font-size="25" fill="#344256">Harbin Institute of Technology</text>
+  <text x="373" y="445" font-family="sans-serif" font-size="21" fill="#56677d">Artificial Intelligence · Computer Graphics</text>
+  <text x="90" y="570" font-family="sans-serif" font-size="18" fill="#56677d">kangtengjia.github.io</text>
+</svg>
